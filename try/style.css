@@ -1,0 +1,85 @@
+.container{
+    height: 800px;
+    background-color: lightgrey;
+}
+h1{
+	color:#00ff00;
+	text-shadow:2px 3px yellow;
+	font-variant:small-caps;
+	font-size:70px;
+	letter-spacing:5px;
+	font-style:italic;
+	text-align:center;
+	font-weight:bold;
+}
+.sub-container{
+	display: flex;
+    height: 150px;
+    background-color: lightgrey;
+}
+.sub-container div {
+    width:20%;
+	height:140px;
+	border:1px solid black;
+	margin:30px;
+}
+#A{
+background-image: url("file:///D:/Cdrive/Pictures/aqua.jpg");
+}
+#B{
+background-image:url("file:///D:/Cdrive/Pictures/innocent.jpg");
+}
+#C{
+background-image:url("file:///D:/Cdrive/Pictures/masa.jpg");
+}
+#D{
+background-image:url("file:///D:/Cdrive/Pictures/snehal.jpg");
+}
+#E{
+background-image:url("file:///D:/Cdrive/Pictures/strong.jpg");
+}
+#F{
+background-image:url("file:///D:/Cdrive/Pictures/yellow.jpg");
+}
+#G{
+background-image:url("file:///D:/Cdrive/Pictures/images.jpg");
+} 
+#H{
+background-image:url("file:///D:/Cdrive/Pictures/horse.jpg");
+}
+#I{
+background-image:url("file:///D:/Cdrive/Pictures/aqua1.jpg");
+}
+#J{
+background-image:url("file:///D:/Cdrive/Pictures/chamaki.jpg");
+}
+#K{
+background-image:url("file:///D:/Cdrive/Pictures/fana.jpg");
+}
+#L{
+background-image:url("file:///D:/Cdrive/Pictures/fresh.jpg");
+}
+#a{
+background-image:url("file:///D:/Cdrive/Pictures/wild.jpg");
+}
+#b{
+background-image:url("file:///D:/Cdrive/Pictures/chuchu.jpg");
+}
+#c{
+background-image:url("file:///D:/Cdrive/Pictures/wow.jpg");
+}
+#d{
+background-image:url("file:///D:/Cdrive/Pictures/deer.jpg");
+}
+#M{
+background-image:url("file:///D:/Cdrive/Pictures/deer.jpg");
+}
+#N{
+background-image:url("file:///D:/Cdrive/Pictures/love.jpg");
+}
+#O{
+background-image:url("file:///D:/Cdrive/Pictures/cute.jpg");
+}
+#e{
+background-image:url("file:///D:/Cdrive/Pictures/Lion.jpg");
+}
